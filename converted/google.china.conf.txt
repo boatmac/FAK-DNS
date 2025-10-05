@@ -14,6 +14,7 @@
 [/beacons3.gvt2.com/]quic://dns.alidns.com tls://dns.alidns.com
 [/c.admob.com/]quic://dns.alidns.com tls://dns.alidns.com
 [/c.android.clients.google.com/]quic://dns.alidns.com tls://dns.alidns.com
+[/c.pki.goog/]quic://dns.alidns.com tls://dns.alidns.com
 [/cache-management-prod.google.com/]quic://dns.alidns.com tls://dns.alidns.com
 [/cache.pack.google.com/]quic://dns.alidns.com tls://dns.alidns.com
 [/checkin.gstatic.com/]quic://dns.alidns.com tls://dns.alidns.com
